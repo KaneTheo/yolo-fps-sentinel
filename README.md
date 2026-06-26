@@ -12,7 +12,7 @@
 
 ## 概述
 
-基于 **YOLO26**（Ultralytics 2026.01 发布，NMS-Free 端到端架构）的实时 FPS 游戏辅助系统。通过 DXGI 桌面捕获 + GPU 加速推理 + ByteTrack 多目标追踪 + Kalman 状态估计，实现亚帧级人物检测与智能瞄准辅助。
+基于 [**YOLO26**](https://github.com/ultralytics/ultralytics)（Ultralytics 2026.01 发布，NMS-Free 端到端架构）的实时 FPS 游戏辅助系统。通过 DXGI 桌面捕获 + GPU 加速推理 + ByteTrack 多目标追踪 + Kalman 状态估计，实现亚帧级人物检测与智能瞄准辅助。
 
 > ⚠️ **免责声明：本项目仅供 AI 研究与技术学习使用。请勿在正式游戏服务器中使用，由此产生的封号等后果与作者无关。**
 
