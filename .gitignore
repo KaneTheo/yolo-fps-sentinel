@@ -1,0 +1,29 @@
+# 模型文件（ultralytics 自动下载）
+*.pt
+*.onnx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.jpg
+*.png
+!snapshot_*.png
+
+# Claude
+.claude/
+
+# 系统
+Thumbs.db
+Desktop.ini
